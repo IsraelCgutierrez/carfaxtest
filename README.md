@@ -13,3 +13,7 @@ additionally you can run it with
 
 ```java -jar build/libs/carfaxTest-0.0.1-SNAPSHOT.jar```
 
+### Usage
+once running call the endpoint
+
+```/getRecords/{ivn}```
